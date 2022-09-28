@@ -1,0 +1,20 @@
+#logiForm{
+    display: grid;
+    width: 30%;
+    margin: auto;
+}
+input{
+    margin-bottom: 10px;
+    padding: 5px;
+}
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: rgb(195, 222, 222);
+    padding: 8px;
+    margin-bottom: 20px;
+}
+#login-form-div{
+    text-align: center;  
+}
